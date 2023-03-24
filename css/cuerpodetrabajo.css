@@ -1,0 +1,37 @@
+.imagen {
+    font-style: italic;
+    font-size: 1.4em;
+}
+.parrafo {
+    font-size: 2em;
+}
+.parrafo-1 {
+    font-size: 2.4em;
+}
+.uno {
+    font-size: 1.8em;
+}
+.respuesta {
+    font-size: 1.6em;
+}
+h1 {
+    font-size: 4em;
+    text-align: center;
+}
+.fuente {
+    display: block;
+    width: 100px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 700;
+    border-radius: 10px;
+    margin: 150px 130px;
+    padding: 15px 30px;
+    background-color: rgb(240, 181, 105);
+    color: #fff;
+    text-decoration: none;
+}
+.fuente:hover {
+    background-color: transparent;
+    border: 2px solid rgb(240, 181, 105);
+    color: rgb(240, 181, 105);
+}

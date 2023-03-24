@@ -1,0 +1,24 @@
+h1 {
+    text-align: center;
+    font-size: 4em;
+}
+p {
+    font-size: 2em;
+}
+a {
+    display: block;
+    width: 100px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 700;
+    border-radius: 10px;
+    margin: 150px 130px;
+    padding: 15px 30px;
+    background-color: rgb(240, 181, 105);
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background-color: transparent;
+    border: 2px solid rgb(240, 181, 105);
+    color: rgb(240, 181, 105);
+}

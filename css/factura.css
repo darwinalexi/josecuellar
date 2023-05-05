@@ -1,0 +1,16 @@
+body{
+
+}
+.box{
+    width: auto;
+    height: auto;
+    background-color: aqua;
+}
+button{
+    background-color: blanchedalmond;
+    display: block;
+    margin: 3px;
+    position: relative;
+    top: 20px;
+    
+}

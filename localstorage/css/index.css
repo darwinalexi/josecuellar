@@ -1,0 +1,9 @@
+.principal{
+    width: 500px;
+    height: auto;
+    position: relative;
+    left: 300px;
+    border: 2px solid  rgb(08, 25, 11) ;
+    background-color: lightblue;
+    font-family: 'Climate Crisis', cursive;
+}
